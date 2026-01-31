@@ -1,8 +1,7 @@
 # ProjectRL2026
 A Reinforcement Learning (RL) approach to optimize the operation
 of a hydroelectric dam for electricity production. It includes a problem description, two baseline
-euristics, the RL solution, the validation evaluation, and the performance evaluation. Ad-
-itional rescarch directions and ablation studies are also discussed.
+euristics, the RL solution, the validation evaluation, and the performance evaluation. Additional rescarch directions and ablation studies are also discussed.
 ## Requirements
 Make sure you are in Python version 3.11 or higher.  
 Install the following dependencies:
