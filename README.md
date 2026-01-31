@@ -1,4 +1,4 @@
-# ProjectRL2026
+# ProjectRL
 A Reinforcement Learning (RL) approach to optimize the operation
 of a hydroelectric dam for electricity production. It includes a problem description, two baseline
 heuristics, the RL solution, the validation evaluation, and the performance evaluation. Additional rescarch directions and ablation studies are also discussed.
